@@ -7,9 +7,10 @@
 <title>Insert title here</title>
 </head>
 <body>
-<form action"">
-Alien name: <input type="text" name="name">
-Alien language: <input type="text" name="language">
+<form action="addAlien">
+Alien id: <input type="text" name="aid">
+Alien name: <input type="text" name="aname">
+<input type="submit" value="Submit">
 </form>
 
 </body>
